@@ -21,11 +21,9 @@
         },
         "hover-background": {
             "action-primary": "#45a6a3"
-        }
-    },
-    "typography": {
-        "t-heading-1": {
-            "font-size": "2.5rem"
+        },
+        "border": {
+            "action-primary": "#45a6a3"
         }
     }
 }
