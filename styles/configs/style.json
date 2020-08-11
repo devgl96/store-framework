@@ -24,6 +24,12 @@
         },
         "border": {
             "action-primary": "#45a6a3"
+        },
+        "hover-border": {
+            "action-primary": "#45a6a3"
         }
+    },
+    "search-title.v2":{
+        "font-size": "2.5rem"
     }
 }
