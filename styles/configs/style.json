@@ -1,7 +1,7 @@
 {
     "semanticColors": {
         "background": {
-          "base": "#00BFFF",
+          "base": "#FFFFFF",
           "base--inverted": "#03044e",
           "action-primary": "#52BAB7",
           "action-secondary": "#eef3f7",
@@ -28,10 +28,5 @@
         "hover-border": {
             "action-primary": "#45a6a3"
         }
-    },
-    "level1Heading": {
-        
-            "font-size": "2.5rem"
-        
     }
 }
