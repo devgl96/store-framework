@@ -1,35 +1,37 @@
 {
     "semanticColors": {
         "background": {
-            "base": "#ffffff",
-            "base--inverted": "#03044e",
-            "action-primary": "#52BAB7",
-            "action-secundary": "#eef3f7",
-            "emphasis": "#f71963",
-            "disabled": "#f2f4f5",
-            "success": "#8bc34a",
-            "success--faded": "#eafce3",
-            "danger": "#ff4c4c",
-            "danger--faded": "#ffe6e6",
-            "warning": "#ffb100",
-            "warning--faded": "#fff6e0",
-            "muted-1": "#727273",
-            "muted-2": "#979899",
-            "muted-3": "#cacbcc",
-            "muted-4": "#e3e4e6",
-            "muted-5": "#f2f4f5"
-        },
-        "hover-background": {
-            "action-primary": "#45a6a3"
+          "base": "#00BFFF",
+          "base--inverted": "#03044e",
+          "action-primary": "#52BAB7",
+          "action-secondary": "#eef3f7",
+          "emphasis": "#f71963",
+          "disabled": "#f2f4f5",
+          "success": "#8bc34a",
+          "success--faded": "#eafce3",
+          "danger": "#ff4c4c",
+          "danger--faded": "#ffe6e6",
+          "warning": "#ffb100",
+          "warning--faded": "#fff6e0",
+          "muted-1": "#727273",
+          "muted-2": "#979899",
+          "muted-3": "#cacbcc",
+          "muted-4": "#e3e4e6",
+          "muted-5": "#f2f4f5"
         },
         "border": {
+            "action-primary": "#52BAB7"
+        },
+        "hover-background": {
             "action-primary": "#45a6a3"
         },
         "hover-border": {
             "action-primary": "#45a6a3"
         }
     },
-    "search-title.v2":{
-        "font-size": "2.5rem"
+    "level1Heading": {
+        
+            "font-size": "2.5rem"
+        
     }
 }
