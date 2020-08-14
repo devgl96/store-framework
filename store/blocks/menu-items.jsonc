@@ -1,6 +1,6 @@
 {
   "menu-item#major-appliances": {
-      "props": {
+    "props": {
       "type": "custom",
       "highlight": true,
       "itemProps": {
