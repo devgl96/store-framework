@@ -10,9 +10,9 @@
             "querySchema": {
                 "skusFilter": "FIRST_AVAILABLE",
                 "simulationBehavior": "skip",
+                "maxItemsPerPage": 8,
                 "orderByField": "OrderByReleaseDateDESC",
-                "hideUnavailableItems": false,
-                "maxItemsPerPage": 8
+                "hideUnavailableItems": true
             }
         }
     },
