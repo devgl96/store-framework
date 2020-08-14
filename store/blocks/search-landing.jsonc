@@ -18,6 +18,7 @@
     },
     "image#landingbanner": {
         "props": {
+            "src": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/C%C3%A2mera-Fotogr%C3%A1fica-PNG.png",
             "minWidth": "100%"
         }
     }
